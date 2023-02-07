@@ -2,5 +2,5 @@
 - 👀 I’m interested in building cross platform apps
 - 🌱 My current stack: flutter, firebase and node.js
 - 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me- twitter: @kofi_yesuko, mail: yesukotagbor@gmail.com, LinkedIn: linkedin.com/in/yesuko-tagbor/
+- 📫 How to reach me- twitter: @kofi_yesuko, mail: yesukotagbor@gmail.com, LinkedIn: www.linkedin.com/in/yesuko-tagbor/
 - ⚡ Fun fact: i love communicating and solving problems
