@@ -4,4 +4,4 @@
 - 🌱 My current stack: flutter, firebase and node.js
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me- twitter: @kofi_yesuko, mail: yesukotagbor@gmail.com, LinkedIn: www.linkedin.com/in/yesuko-tagbor/
-- ⚡ Fun fact: i love communicating and solving problems
+- ⚡ Fun fact: i love story telling and solving problems
