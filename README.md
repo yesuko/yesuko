@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yesuko
+- 👋 Hi, I’m @yesuko
 - ⚡ I love solving problems
 - 👀 I’m interested in building cross platform apps
 - 🌱 My current stack: flutter, firebase and node.js
