@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yesuko
 - ⚡ I love solving problems
-- 👀 I’m interested in building cross platform apps
+- 👀 I’m interested in building business and solution oriented apps
 - 🌱 My current stack: flutter, ruby, php and postgresql
 - 💞️ I’m looking foward to collaborate on any challenging project
 - 📫 How to reach me- twitter: www.twitter.com/kofi_yesuko, mail: assankumdev@gmail.com, LinkedIn: www.linkedin.com/in/yesuko/
